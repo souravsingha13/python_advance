@@ -1,9 +1,4 @@
-import multiprocessing
+f = open("example.txt", "r")
 
-def worker_function():
-	print("Worker process")
+print(f.read())
 
-if __name__ == "__main__":
-	process = multiprocessing.Process(target=worker_function)
-	process.start()
-	process.exit() # Incorrect usage causing AttributeError
