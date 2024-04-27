@@ -1,5 +1,4 @@
-Hello world!!
-
-Hello, again!
-Hello, again!
-Hello, again!
+Hello world 
+I hope you're doing well today 
+This is a text file 
+Have a nice time 
